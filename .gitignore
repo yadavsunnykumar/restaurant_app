@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# macOS system file
+.DS_Store
+
+# IDE project settings
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Environment files (if using .env for secrets)
+.env
+
+# Logs and dumps
+*.log
+*.sqlite3
