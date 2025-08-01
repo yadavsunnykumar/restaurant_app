@@ -5,7 +5,9 @@ __pycache__/
 # macOS system file
 .DS_Store
 
-# IDE project settings
+# IDE project settingsfind . -name .DS_Store -delete
+
+
 .idea/
 
 # Virtual environments
